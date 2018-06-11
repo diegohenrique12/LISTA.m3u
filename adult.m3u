@@ -1,3 +1,89 @@
+
+#EXTM3U
+
+#EXTM3UAdultos + 18
+
+#EXTINF:-1 tvg-id="PlayboyTV" tvg-logo="http://i.imgur.com/f0APgjy.png" group-title="Adulto",Playboy TV
+
+#EXTINF:-1 tvg-id="SexPrive" tvg-logo="http://i.imgur.com/kbei9Ju.png" group-title="Adulto",Sex Prive HD
+http://paraisotv.ddns.net/058/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="SexyHot" tvg-logo="http://i.imgur.com/jv8XhSR.png" group-title="Adulto",Sexy Hot HD
+http://paraisotv.ddns.net/057/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Sextreme" tvg-logo="http://i.imgur.com/rxDFBSw.png" group-title="Adulto",Sextreme HD
+http://paraisotv.ddns.net/011/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="SexZone" tvg-logo="http://i.imgur.com/ynFru4D.png" group-title="Adulto",Sex Zone HD
+http://paraisotv.ddns.net/008/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Venus" tvg-logo="http://i.imgur.com/SycLayU.png" group-title="Adulto",Venus
+
+#EXTINF:-1 tvg-id="Hot" tvg-logo="http://i.imgur.com/8a71pse.png" group-title="Adulto",Hot
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/NXRIW14.png" group-title="Adulto",Redlight
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/501/index.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/BQzmgyG.png" group-title="Adulto",Hustler
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/LpbTbG4.png" group-title="Adulto",Dorcel
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/j0igRZd.png" group-title="Adulto",Dusk
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/cO2Ouk5.png" group-title="Adulto",Eroxxx
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/s7hsQT0.png" group-title="Adulto",Penthouse 1 HD 
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/s7hsQT0.png" group-title="Adulto",Penthouse 2 HD 
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/DevgPrx.png" group-title="Adulto",Passione TV
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/hsphNnP.png" group-title="Adulto",Private TV
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/tSfnjXQ.png" group-title="Adulto",Jasmin.TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/TzL6H2G.png" group-title="Adulto",Brazzers TV Europe
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/JEcnOmx.png" group-title="Adulto",Cento X Cento TV 
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/ckNsCpi.png" group-title="Adulto",Pinko TV
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/6Nr8Bqk.png" group-title="Adulto",Passion XXX
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/cMvmMAp.png" group-title="Adulto",SCT
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/NyXiXno.png" group-title="Adulto",SuperOne HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/cMvmMAp.png" group-title="Adulto",Sext 6 Senso Italia
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/cMvmMAp.png" group-title="Adulto",Exotica Plus 
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/cMvmMAp.png" group-title="Adulto",Evil Angel TV 
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/cMvmMAp.png" group-title="Adulto",Frenchlover TV 
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/cMvmMAp.png" group-title="Adulto",XXL
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/500/index.m3u8?PEDROJUNIORTUTORIAIS
+
+
+
+
+#EXTINF:0,SEX PRIVÉ
+http://paraisotv.ddns.net:80/058/myStream/live.m3u8 
+
+#EXTINF:0,SEXTREME
+http://paraisotv.ddns.net:80/011/myStream/live.m3u8
+
+#EXTINF:0,PLAYBOY TV
+http://paraisotv.ddns.net:80/059/myStream/live.m3u8
+
+#EXTINF:0,SEXY HOT
+http://paraisotv.ddns.net:80/057/myStream/live.m3u8
+
+#EXTINF:0,SEX ZONE
+http://paraisotv.ddns.net:80/008/myStream/live.m3u8
+
 #EXTM3U
 #EXTINF:0,By : www.dailyfreeiptv.tk: ADULT 1 HD
 http://mriptv.in:8080/live/schorsch/schorsch/107199.ts

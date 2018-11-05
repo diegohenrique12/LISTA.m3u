@@ -1,0 +1,34 @@
+#EXTM3U
+#PLAYLISTV: pltv-logo="http://macmagazine.com.br/blog/wp-content/uploads/2009/03/19-hd_movies.jpg"
+
+
+
+
+
+
+
+
+
+#
+#######################################################################################################################################################################
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://macmagazine.com.br/blog/wp-content/uploads/2009/03/19-hd_movies.jpg" group-title="LANÇAMENTOS",[COLOR gold]> > > LANÇAMENTOS < < 
+
+<[/COLOR]
+http://ignorame
+
+
+
+
+
+#EXTINF:-1 tvg-id="Globo Rj" tvg-logo="https://bit.ly/2EVlvQp" group-title="LANÇAMENTOS",ALFA
+http://cds2.portalhqs.net/html/content/conteudolb/filmes2018/ALFADUB-BAIXO.mp4?
+
+
+#EXTINF:-1 tvg-id="Globo Rj" tvg-logo="https://bit.ly/2EVlvQp" group-title="LANÇAMENTOS",ALFA-TOKEN
+http://cds2.portalhqs.net/html/content/conteudolb/filmes2018/ALFADUB-BAIXO.mp4?token=st=1541434753~exp=1541456353~acl=/html/*~hmac=d5841b9ef1273384b861dd4a2769b462
